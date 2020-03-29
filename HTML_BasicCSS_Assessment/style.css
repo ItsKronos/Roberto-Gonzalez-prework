@@ -11,7 +11,6 @@ h1{
   font-weight: bolder;
   font-size: large;
   text-align: left;
-  vertical-align: top;
 }
 
 h2{
@@ -30,7 +29,6 @@ h3{
 }
 
 a{
-  vertical-align: center;
   border: 2px solid white;
   text-decoration: none;
   padding: 8px 12px;
